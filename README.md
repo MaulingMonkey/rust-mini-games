@@ -2,3 +2,4 @@
 
 # How to play
 cd to the game directory and type: ``cargo run``
+
